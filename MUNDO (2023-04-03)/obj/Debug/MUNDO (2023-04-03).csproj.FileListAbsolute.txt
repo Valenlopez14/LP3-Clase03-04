@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\bin\Debug\MUNDO (2023-04-03).exe.config
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\bin\Debug\MUNDO (2023-04-03).exe
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\bin\Debug\MUNDO (2023-04-03).pdb
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\obj\Debug\MUNDO (2023-04-03).csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\obj\Debug\MUNDO__2023_04_03_.Form1.resources
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\obj\Debug\MUNDO__2023_04_03_.Properties.Resources.resources
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\obj\Debug\MUNDO (2023-04-03).csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\obj\Debug\MUNDO (2023-04-03).csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\obj\Debug\MUNDO (2023-04-03).exe
+C:\Users\Alumno\source\repos\MUNDO (2023-04-03)\obj\Debug\MUNDO (2023-04-03).pdb
